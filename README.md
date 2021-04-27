@@ -9,12 +9,11 @@
 
 ## ABSX Suporte
 
-Este sistema foi desenvolvido como teste prático de programador Php pleno para a empresa de tecnoligia rize e consiste basicamente em criar um (ticket de suporte) onde um técnico da empresa absx suporte recebe o chamado, aceita e finaliza. O processo  do sistema é automático no gerencia de prioridade para o técnico com menor chamado em aberto no sistema.
+Este sistema foi desenvolvido como teste práticos de programador Php pleno para a empresa de tecnoligia rize e consiste basicamente em criar um (ticket de suporte) onde um técnico da empresa absx suporte recebe o chamado, aceita e finaliza. O processo  do sistema é automático no gerencia de prioridade para o técnico com menor chamado em aberto no sistema.
 
 - [Laravel 8](https://laravel.com/docs/routing).
 - [Bootstrap 4.0](https://laravel.com/docs/container).
 - [Php 7.4](https://laravel.com/docs/container).
-- [Ubuntu 20](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
