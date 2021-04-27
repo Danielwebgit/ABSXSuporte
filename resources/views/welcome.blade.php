@@ -42,22 +42,21 @@
                         <div class="modal-header">
                             Funcionários: felipe | marcos | joao
                         </div>
-                        <div>
 
                     <!-- Modal body -->
                         <div class="modal-body">
-                            No total são 20 usuários cadastrados no sistema,
+                            No total são 4 usuários cadastrados no sistema,
                             cada usuário possui seu próprio papel.
                             São três funcionários, Felipe, Marcos e João. Os outros
-                            usuários são clientes da empresa.
+                            usuários são clientes da empresa rize tecnologia que precisam de suporte técnico.
                     </div>
                     <!-- Modal footer -->
                     <div class="modal-footer">
                         <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
                     </div>
-
                 </div>
             </div>
+                </div>
         </div>
 @endsection
 
