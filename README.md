@@ -14,4 +14,7 @@ Este sistema foi desenvolvido como teste práticos de programador Php pleno para
 - [Laravel 8](https://laravel.com/docs/routing).
 - [Bootstrap 4.0](https://laravel.com/docs/container).
 - [Php 7.4](https://laravel.com/docs/container).
+- [Banco de dados MySQL](https://laravel.com/docs/container).
+- [OS. Linux (Ubuntu)](https://laravel.com/docs/container).
+- [Servidor Apache](https://laravel.com/docs/container).
 - [ Daniel Rocha Developer Php ]
